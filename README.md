@@ -1,6 +1,5 @@
 <div align="center">
-  ![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-</div>
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 <p align="center">
     Empress Banking is a dynamic solution designed for Empress users who want to effortlessly manage their finances. It seamlessly integrates with your bank accounts to fetch transactions, thereby reducing manual data entry and time-consuming reconciliations. 
@@ -10,6 +9,7 @@
     <a href="https://github.com/empress-eco/banking/issues">Report Bug</a>
     ·
     <a href="https://github.com/empress-eco/banking/issues">Request Feature</a>
+
 </div>
 
 ## About Empress Banking
